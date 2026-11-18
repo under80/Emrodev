@@ -70,6 +70,11 @@ object SportData {
         League("LaLiga", "soccer/esp.1", "Fußball"),
         League("Serie A", "soccer/ita.1", "Fußball"),
         League("Ligue 1", "soccer/fra.1", "Fußball"),
+        League("Liga Portugal", "soccer/por.1", "Fußball"),
+        League("Brasileirão Série A", "soccer/bra.1", "Fußball"),
+        League("Copa do Brasil", "soccer/bra.copa_do_brazil", "Fußball"),
+        League("CONMEBOL Libertadores", "soccer/conmebol.libertadores", "Fußball"),
+        League("CONMEBOL Sul-Americana", "soccer/conmebol.sudamericana", "Fußball"),
         League("Champions League", "soccer/uefa.champions", "Fußball"),
         League("Europa League", "soccer/uefa.europa", "Fußball"),
         // Wishbox: North American leagues (same ESPN scoreboard as the others)
